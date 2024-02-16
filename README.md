@@ -28,5 +28,5 @@
 ### 🤝🏻 &nbsp;Mi contacto
 
 <p align="center">
-<a href="https://www.linkedin.com/in/manuela-moreno-arcila-647212267/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
+<a href="https://www.linkedin.com/in/manuela-moreno-arcila/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
 <a href="mailto:manuelamoreno8j@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
