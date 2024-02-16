@@ -4,7 +4,7 @@
 
 💡 &nbsp;Me gusta desarrollar Frontend en aplciativos web haciendo uso de frameworks como Nuxt, React y Angular. Me interesa mucho la rama de UX y la enseñanza\
 🎓 &nbsp;Estudiante de séptimo semestre en la Universidad de Medellín.\
-🌱 &nbsp;Estoy aprendiendo desarrollo de aplicaciones web, transformación digital, ingeniería de software y ciberseguridad.
+🌱 &nbsp;Estoy aprendiendo desarrollo de aplicaciones web, transformación digital, ingeniería de software y ciberseguridad.\
 📄 &nbsp;Cuento con experiencia como monitora académica en la Universidad de Medellín.
 
 ### 🛠 &nbsp;Mis conocimientos
