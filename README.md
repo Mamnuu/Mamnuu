@@ -3,9 +3,9 @@
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 💡 &nbsp;Me gusta liderar y coordinar equipos, proyectos, cronogramas, presupuestos, desarrollar Frontend en aplicativos web haciendo uso de frameworks como Nuxt, React y Angular. Me interesa mucho la gestión de proyectos, la rama UX y la enseñanza\
-🎓 &nbsp;Estudiante de noveno semestre en la Universidad de Medellín.\
+🎓 &nbsp;Estudiante de décimo semestre en la Universidad de Medellín.\
 🌱 &nbsp;Estoy aprendiendo desarrollo de aplicaciones web, transformación digital, ingeniería de software y ciberseguridad.\
-📄 &nbsp;Cuento con experiencia en coordinación de equipos de trabajo multidisciplinarios, seguimiento a cronogramas y administración de presupuestos asociados a proyectos tecnológicos, Análisis y síntesis de información proveniente de bases de datos para la toma de decisiones estratégicas, con presentación de informes y resultados ante alta gerencia, Identificación de oportunidades de mejora, liderando procesos de optimización y automatización operativa, Desarrollo e implementación de herramientas tecnológicas orientadas al aumento de la productividad y la eficiencia organizacional.\
+📄 &nbsp;Cuento con experiencia laboral en coordinación de equipos de trabajo multidisciplinarios, seguimiento a cronogramas y administración de presupuestos asociados a proyectos tecnológicos, Análisis y síntesis de información proveniente de bases de datos para la toma de decisiones estratégicas, con presentación de informes y resultados ante alta gerencia, Identificación de oportunidades de mejora, liderando procesos de optimización y automatización operativa, Desarrollo e implementación de herramientas tecnológicas orientadas al aumento de la productividad y la eficiencia organizacional.\
 📄 &nbsp;Cuento con experiencia como monitora académica en la Universidad de Medellín.
 
 ### 🛠 &nbsp;Mis conocimientos
